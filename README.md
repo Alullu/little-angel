@@ -10,3 +10,5 @@ http://.../ladybug#2 --> 2 days
 ```
 
 This way the GM can customize how much time remains on the countdown depending on when the PCs first visit the website.
+
+这是翻译成中文的版本。
